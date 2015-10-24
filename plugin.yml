@@ -1,0 +1,7 @@
+name: Default_Nether
+main: com.ftwinston.KillerMinecraft.Modules.DefaultNether.Plugin
+depend: [Killer_Minecraft]
+version: 1
+load: STARTUP
+description: A world generator for Killer Minecraft
+author: FTWinston
